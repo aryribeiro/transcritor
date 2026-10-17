@@ -10,8 +10,8 @@ web, portais de treinamento) e, ao parar, baixa um arquivo `.txt`.
 > outros participantes. A sua voz fica de fora, inclusive a da sua própria imagem numa reunião.
 
 - A transcrição é feita por uma **API gratuita** ([Groq](https://console.groq.com), modelo Whisper
-  large-v3-turbo): **sem custo até 8 horas de áudio por dia**, em **português, inglês e espanhol** (e outros
-  idiomas), com o idioma **detectado sozinho**. Você só precisa criar uma chave grátis.
+  large-v3-turbo): **sem custo até 8 horas de áudio por dia**, em **português, inglês e espanhol**, com o
+  idioma **detectado sozinho**. Você só precisa criar uma chave grátis.
 - Funciona na **versão mais atual do Firefox** (testada no Firefox 158; exige Firefox 140 ou mais novo).
 
 **Versão atual: 0.5.1** · arquivo: [`transcritor-de-aba-0.5.1-assinado.xpi`](transcritor-de-aba-0.5.1-assinado.xpi)
