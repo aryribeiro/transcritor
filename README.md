@@ -1,4 +1,4 @@
-<img width="243" height="252" alt="print" src="https://github.com/user-attachments/assets/67e601d6-e4fb-4edd-aaf0-4f1bffc21e45" />
+<p align="center"><img width="283" height="292" alt="print" src="https://github.com/user-attachments/assets/67e601d6-e4fb-4edd-aaf0-4f1bffc21e45" /></p>
 
 # Transcritor de Aba (Firefox)
 
