@@ -1,3 +1,5 @@
+<img width="343" height="352" alt="print" src="https://github.com/user-attachments/assets/67e601d6-e4fb-4edd-aaf0-4f1bffc21e45" />
+
 # Transcritor de Aba (Firefox)
 
 Extensão do Firefox que transcreve o áudio da aba atual (aulas e vídeos no YouTube, reuniões no Meet, Teams e Zoom
